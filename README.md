@@ -26,6 +26,14 @@ You should fit the model to the weather-data(as feature) and bloom-date-data(as 
 A brief description and specifications on each of these models are given in jupyter-notebook file: <b>problem.ipynb</b> The required weather-data and bloom-dates are given in the <b>datasets-folder</b>. The solution is given in <b>solution.ipynb</b> file.
 </p>
 
+Python Dependencies:
+
+    NumPy
+    Pandas
+    Sklearn
+    Tensorflow
+    Matplotlib
+
 ## Point to be noted
 Jupyter-notebook files are large and may not be displayed properly in GitHub
 Use the online Notebook viewer: https://nbviewer.jupyter.org/ to view the notebooks

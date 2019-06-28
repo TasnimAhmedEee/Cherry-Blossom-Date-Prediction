@@ -1,7 +1,7 @@
-# cherry_blossom_date_prediction_for_tokyo
+# Cherry Blossom Date Prediction
  ## Introduction
  <p>
- In a year, sakura trees basically go through 4 phases: energy production, hibernation, growth, and of course flowering. These phases roughly follow the seasons, but not exactly.
+ In a year, sakura(Cherry) trees basically go through 4 phases: energy production, hibernation, growth, and of course flowering. These phases roughly follow the seasons, but not exactly.
 
 Production phase： Initial development of the buds（Summer-Fall）
 Hibernation phase： Bud growth stops while the tree goes into hibernation（Late Fall-Winter）

@@ -12,12 +12,12 @@ Each year, near the end of winter but before the trees finally bloom, the hibern
 
 ## About the challenge
 <p>
-  In this challenge, we have outlined the basic mechanism by which the sakura reach their eventual bloom-date. We consider building a bloom-date prediction model for the case of sakura in Tokyo, with the data split as follows:
+  In this challenge, we have outlined the basic mechanism by which the sakura(cherry) reach their eventual bloom-date. We consider building a bloom-date prediction model for the case of sakura in Tokyo, with the data split as follows:
 
 Test years： 1966, 1971, 1985, 1994, and 2008
 Training years: 1961 to 2017 (Excluding the test years)
 
-You should fit the model to the data from the training years, then use the model to predict the bloom-date for each of the test years. This task has to be done by applying 3 different models:
+You should fit the model to the weather-data(as feature) and bloom-date-data(as label) from the training years, then use the model to predict the bloom-date for each of the test years. This task has to be done by applying 3 different models:
 
 1. 600 degree rule
 2. Linear Regression

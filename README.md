@@ -1,4 +1,5 @@
 # Cherry Blossom Date Prediction
+![Cherry Blossom](https://github.com/TasnimAhmedEee/Cherry-Blossom-Date-Prediction/blob/master/bloom-blossom-branch-7018162.jpg)
  ## Introduction
  <p>
  In a year, sakura(Cherry) trees basically go through 4 phases: energy production, hibernation, growth, and of course flowering. These phases roughly follow the seasons, but not exactly.
